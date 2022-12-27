@@ -54,7 +54,7 @@ resim = ["""
 while True:
     print(("----->") + "Adam Asmaca Oyunu" + ("<-----"))
     
-    kelime = random.choice(["insan", "cemiyyet", "sosial", "texniki", "fiziki", "tedqiqat","ferdi","kollec","gimnaziya","distant","refiqe","ceyran",])
+    kelime = random.choice(["insan", "cemiyyet", "sosial", "texniki", "fiziki", "tedqiqat","ferdi","kollec","gimnaziya","distant","ceyran",])
     adim = 0
     tahmin = []
 	 
